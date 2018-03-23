@@ -1,0 +1,1 @@
+../../../SendinfoCategory/SendinfoCategory/NSString+val.h

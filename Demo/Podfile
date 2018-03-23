@@ -1,0 +1,5 @@
+platform :ios,'9.1'
+target 'test' do
+pod 'SendinfoCategory', '~> 0.0.2'
+
+end
