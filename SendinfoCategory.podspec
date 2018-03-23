@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SendinfoCategory"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "日期分类，字符串分类，规则验证，及转换"
 
   # This description is used to generate tags and improve search results.
