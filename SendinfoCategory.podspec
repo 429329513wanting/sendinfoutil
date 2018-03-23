@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "Category"
+  s.name         = "SendinfoCategory"
   s.version      = "0.0.1"
   s.summary      = "日期分类，字符串分类，规则验证，及转换"
 
@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Category/*"
+  s.source_files  = "SendinfoCategory/*"
   #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
