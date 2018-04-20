@@ -12,7 +12,7 @@
 #import "NSDate+Utilities.h"
 #import "NSMutableDictionary+RXRMultipleItems.h"
 #import "NSString+MD5.h"
-#import "NSString+NSString+RXRURLEscape.h"
+#import "NSString+RXRURLEscape.h"
 #import "NSString+val.h"
 #import "NSURL+Rexxar.h"
 #import "SendIFAPPDefault.h"
