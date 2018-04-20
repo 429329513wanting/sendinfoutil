@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -20,6 +20,7 @@
 		5386BC2003FC7AA215453EC8BB3CAB4B /* NSDate+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4D10D525C4ABCFFA6D9E8EBD8A0890 /* NSDate+Addition.m */; };
 		5E42E83A8BF7DBEA9C1B133C6D697B80 /* SendinfoCategory-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 29D876D990DA85B216BECCF8D0E6D3C3 /* SendinfoCategory-dummy.m */; };
 		5E7283799838351D88560F3C98051F7F /* UIFont+Common.h in Headers */ = {isa = PBXBuildFile; fileRef = 3849D83E2306A63236E438BE5D3DDB6F /* UIFont+Common.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		627D58DE2089DA3900EAE411 /* SCategoryHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 627D58DD2089DA3900EAE411 /* SCategoryHeader.h */; };
 		69F1665D99B359B723C1688C0D8D4380 /* UIColor+Utilty.m in Sources */ = {isa = PBXBuildFile; fileRef = 362136C57DED1B59A22573F8CE6FA0DB /* UIColor+Utilty.m */; };
 		704A3F492820832110BC3B4CF75E3079 /* UIView+Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 696F2CE4180B1CD9FBC6DCE902F30E72 /* UIView+Toast.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		714DF8BC69D90ED7DCB04303A1E19CD6 /* UIColor+Utilty.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CCCF6337449935CA8AD8FAFDDDFE139 /* UIColor+Utilty.h */; settings = {ATTRIBUTES = (Project, ); }; };
@@ -56,7 +57,7 @@
 		0971C28261AC0CF746AB7581433B343B /* UIColor+PGHex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+PGHex.m"; path = "SendinfoCategory/UIColor+PGHex.m"; sourceTree = "<group>"; };
 		0B9FD819817BB17778B8CE481771ECFB /* Pods-test-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test-resources.sh"; sourceTree = "<group>"; };
 		0C1A494A1702D6B6FD87D93104CF60AF /* NSString+val.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+val.m"; path = "SendinfoCategory/NSString+val.m"; sourceTree = "<group>"; };
-		165509341C7BF684E88D121851B11155 /* libPods-test.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-test.a"; path = "libPods-test.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		165509341C7BF684E88D121851B11155 /* libPods-test.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-test.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29D876D990DA85B216BECCF8D0E6D3C3 /* SendinfoCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SendinfoCategory-dummy.m"; sourceTree = "<group>"; };
 		2C0AAF650B83726BE6EFA2B6F00C175E /* SendinfoCategory-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SendinfoCategory-prefix.pch"; sourceTree = "<group>"; };
 		2CCCF6337449935CA8AD8FAFDDDFE139 /* UIColor+Utilty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Utilty.h"; path = "SendinfoCategory/UIColor+Utilty.h"; sourceTree = "<group>"; };
@@ -69,16 +70,17 @@
 		4F4D10D525C4ABCFFA6D9E8EBD8A0890 /* NSDate+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Addition.m"; path = "SendinfoCategory/NSDate+Addition.m"; sourceTree = "<group>"; };
 		5DC5E154AE020D844F59B1343EE40DD0 /* NSMutableDictionary+RXRMultipleItems.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableDictionary+RXRMultipleItems.h"; path = "SendinfoCategory/NSMutableDictionary+RXRMultipleItems.h"; sourceTree = "<group>"; };
 		5E923F09F1C7CE93D3544C9FAF57AFB4 /* SendIFAPPDefault.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SendIFAPPDefault.h; path = SendinfoCategory/SendIFAPPDefault.h; sourceTree = "<group>"; };
+		627D58DD2089DA3900EAE411 /* SCategoryHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SCategoryHeader.h; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		696F2CE4180B1CD9FBC6DCE902F30E72 /* UIView+Toast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Toast.h"; path = "SendinfoCategory/UIView+Toast.h"; sourceTree = "<group>"; };
 		6E712744C6B7C203420AB9B20633AF4F /* Pods-test-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-test-acknowledgements.plist"; sourceTree = "<group>"; };
-		739E7A4C8F43298812A18E61F009F597 /* libSendinfoCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSendinfoCategory.a; path = libSendinfoCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		739E7A4C8F43298812A18E61F009F597 /* libSendinfoCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSendinfoCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		74AC6D88968A26521309BD3EC7DF08E3 /* SendIFAPPDefault.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SendIFAPPDefault.m; path = SendinfoCategory/SendIFAPPDefault.m; sourceTree = "<group>"; };
 		77A07E4204A36CCA94E31FC00169B72E /* NSDate+Utilities.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Utilities.m"; path = "SendinfoCategory/NSDate+Utilities.m"; sourceTree = "<group>"; };
 		8755093993600E933D409AC6AB8496E6 /* NSDate+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Addition.h"; path = "SendinfoCategory/NSDate+Addition.h"; sourceTree = "<group>"; };
 		8A22F8186AC2FD350B3F4A1207E19813 /* NSString+MD5.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+MD5.m"; path = "SendinfoCategory/NSString+MD5.m"; sourceTree = "<group>"; };
 		8F608092ABBF02ACA6EBD7675065BA8E /* SendIFAPPSeting.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = SendIFAPPSeting.plist; path = SendinfoCategory/SendIFAPPSeting.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		955A5A924B9ED95861A4C196B541CD39 /* NSURL+Rexxar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSURL+Rexxar.h"; path = "SendinfoCategory/NSURL+Rexxar.h"; sourceTree = "<group>"; };
 		968AA2E0857A39164AFD4D74A51D3E76 /* NSMutableDictionary+RXRMultipleItems.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+RXRMultipleItems.m"; path = "SendinfoCategory/NSMutableDictionary+RXRMultipleItems.m"; sourceTree = "<group>"; };
 		A425F65D7C3F38AE33923C4FBC4FC940 /* NSString+RXRURLEscape.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+RXRURLEscape.m"; path = "SendinfoCategory/NSString+RXRURLEscape.m"; sourceTree = "<group>"; };
@@ -179,6 +181,7 @@
 		BF2EA9B14087DCC572CA28850CEE0030 /* SendinfoCategory */ = {
 			isa = PBXGroup;
 			children = (
+				627D58DD2089DA3900EAE411 /* SCategoryHeader.h */,
 				8755093993600E933D409AC6AB8496E6 /* NSDate+Addition.h */,
 				4F4D10D525C4ABCFFA6D9E8EBD8A0890 /* NSDate+Addition.m */,
 				A97563EE39F49172B644699E245F241F /* NSDate+Utilities.h */,
@@ -208,7 +211,6 @@
 				FC1C61A7E7800D024161AFD690DB2363 /* UIView+Toast.m */,
 				7B8BE0AD17962C1D2A4F07FAA15CD2FE /* Support Files */,
 			);
-			name = SendinfoCategory;
 			path = SendinfoCategory;
 			sourceTree = "<group>";
 		};
@@ -248,6 +250,7 @@
 				5E7283799838351D88560F3C98051F7F /* UIFont+Common.h in Headers */,
 				E090D93F24338EC0E963134614FF9CAB /* UIImage+Handle.h in Headers */,
 				704A3F492820832110BC3B4CF75E3079 /* UIView+Toast.h in Headers */,
+				627D58DE2089DA3900EAE411 /* SCategoryHeader.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
