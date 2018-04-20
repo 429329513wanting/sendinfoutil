@@ -1,12 +1,12 @@
 PODS:
-  - SendinfoCategory (0.0.2)
+  - SendinfoCategory (0.0.3)
 
 DEPENDENCIES:
-  - SendinfoCategory (~> 0.0.2)
+  - SendinfoCategory
 
 SPEC CHECKSUMS:
-  SendinfoCategory: 1705807c861d59b50886432448d12b0d4732dc15
+  SendinfoCategory: 0eeb61ce97347de2f416a4a7ad24a8a044ea029b
 
-PODFILE CHECKSUM: c13738651302144134d35f9e731485e1b30c5e40
+PODFILE CHECKSUM: 680af233f92845ca892564ffdb0c406003ec9df5
 
 COCOAPODS: 1.4.0

@@ -7,38 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		009882E0591F11E4A2E3A9B27AE69D1C /* UIColor+PGHex.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D7E9C12DAFE4D0813F7CA2A839D4C18 /* UIColor+PGHex.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		0B968620EAE861EAACA109A1900A3B68 /* UIFont+Common.m in Sources */ = {isa = PBXBuildFile; fileRef = 41337BF968688EB5D45A8FEBC9DDDFD1 /* UIFont+Common.m */; };
-		107903BA9B3A21120614E35FFA2B20EF /* UIColor+PGHex.m in Sources */ = {isa = PBXBuildFile; fileRef = 0971C28261AC0CF746AB7581433B343B /* UIColor+PGHex.m */; };
-		1D1F0D2974AF6BA15C5492076A7D3875 /* NSMutableDictionary+RXRMultipleItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 968AA2E0857A39164AFD4D74A51D3E76 /* NSMutableDictionary+RXRMultipleItems.m */; };
-		2FE63C7D5B64446F48719E1F2B62F1E7 /* NSString+MD5.h in Headers */ = {isa = PBXBuildFile; fileRef = 4490D42B74D33B0B1246E830C91A645E /* NSString+MD5.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		35ACA04947427D7B0A119F1ADEC992DA /* NSDate+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 8755093993600E933D409AC6AB8496E6 /* NSDate+Addition.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		37E76A8AABC69B564BA760D612606AEF /* SendIFAPPSeting.plist in Sources */ = {isa = PBXBuildFile; fileRef = 8F608092ABBF02ACA6EBD7675065BA8E /* SendIFAPPSeting.plist */; };
-		39012C078CF8407F91C922E9EC5DE25C /* NSString+RXRURLEscape.h in Headers */ = {isa = PBXBuildFile; fileRef = AC7D5FFC53A20FB062150F958098819C /* NSString+RXRURLEscape.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3D9C375BDFFDE9BFD4E1D2F5A17ACA90 /* UIImage+Handle.m in Sources */ = {isa = PBXBuildFile; fileRef = 06CABABF83850004BF4B3A322ECD306E /* UIImage+Handle.m */; };
-		440115BDB7624134E6EBD99372C85438 /* NSString+RXRURLEscape.m in Sources */ = {isa = PBXBuildFile; fileRef = A425F65D7C3F38AE33923C4FBC4FC940 /* NSString+RXRURLEscape.m */; };
-		5386BC2003FC7AA215453EC8BB3CAB4B /* NSDate+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F4D10D525C4ABCFFA6D9E8EBD8A0890 /* NSDate+Addition.m */; };
-		5E42E83A8BF7DBEA9C1B133C6D697B80 /* SendinfoCategory-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 29D876D990DA85B216BECCF8D0E6D3C3 /* SendinfoCategory-dummy.m */; };
-		5E7283799838351D88560F3C98051F7F /* UIFont+Common.h in Headers */ = {isa = PBXBuildFile; fileRef = 3849D83E2306A63236E438BE5D3DDB6F /* UIFont+Common.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		627D58DE2089DA3900EAE411 /* SCategoryHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 627D58DD2089DA3900EAE411 /* SCategoryHeader.h */; };
-		69F1665D99B359B723C1688C0D8D4380 /* UIColor+Utilty.m in Sources */ = {isa = PBXBuildFile; fileRef = 362136C57DED1B59A22573F8CE6FA0DB /* UIColor+Utilty.m */; };
-		704A3F492820832110BC3B4CF75E3079 /* UIView+Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 696F2CE4180B1CD9FBC6DCE902F30E72 /* UIView+Toast.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		714DF8BC69D90ED7DCB04303A1E19CD6 /* UIColor+Utilty.h in Headers */ = {isa = PBXBuildFile; fileRef = 2CCCF6337449935CA8AD8FAFDDDFE139 /* UIColor+Utilty.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		8B8D6522FBF70894BBF3E3F76E8CFC5B /* NSString+val.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B03D0D8AFD4CE8C4C09143A7FC274F5 /* NSString+val.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		0B968620EAE861EAACA109A1900A3B68 /* UIFont+Common.m in Sources */ = {isa = PBXBuildFile; fileRef = 97B663DE45CAB64F554D3D4DB2E724EE /* UIFont+Common.m */; };
+		107903BA9B3A21120614E35FFA2B20EF /* UIColor+PGHex.m in Sources */ = {isa = PBXBuildFile; fileRef = BFCA0E1771A067D02CA3C1A979684F3B /* UIColor+PGHex.m */; };
+		1CBE5C834BEF66474E1D4D0F474B44AC /* NSString+RXRURLEscape.h in Headers */ = {isa = PBXBuildFile; fileRef = F2723CBC3B64050301030D84D82CEDD7 /* NSString+RXRURLEscape.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		1D1F0D2974AF6BA15C5492076A7D3875 /* NSMutableDictionary+RXRMultipleItems.m in Sources */ = {isa = PBXBuildFile; fileRef = 4BAD6FBA583472165BD873DBD22C87F2 /* NSMutableDictionary+RXRMultipleItems.m */; };
+		22FE875AFE5553A4EEC2BA21983BBA27 /* NSString+MD5.h in Headers */ = {isa = PBXBuildFile; fileRef = ABFB7278EC1CC482B19D4FF6D05E620E /* NSString+MD5.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		37E76A8AABC69B564BA760D612606AEF /* SendIFAPPSeting.plist in Sources */ = {isa = PBXBuildFile; fileRef = FB5C46D1902721644FE6060152CD6259 /* SendIFAPPSeting.plist */; };
+		3D9C375BDFFDE9BFD4E1D2F5A17ACA90 /* UIImage+Handle.m in Sources */ = {isa = PBXBuildFile; fileRef = 7BDF43F508139865BAD6296E0E93435D /* UIImage+Handle.m */; };
+		440115BDB7624134E6EBD99372C85438 /* NSString+RXRURLEscape.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A7EA07098D533827E9BFF0D4B0E57E /* NSString+RXRURLEscape.m */; };
+		4D037C5FDFD5570FA989843A99A499D0 /* UIColor+Utilty.h in Headers */ = {isa = PBXBuildFile; fileRef = EEF7E60EED13C790840F5FAC8BA1569A /* UIColor+Utilty.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		5386BC2003FC7AA215453EC8BB3CAB4B /* NSDate+Addition.m in Sources */ = {isa = PBXBuildFile; fileRef = 3117059A4C0AD3E08A30DEDC8CF1AE13 /* NSDate+Addition.m */; };
+		5414AE34E1B42228466A344A55CF8165 /* UIImage+Handle.h in Headers */ = {isa = PBXBuildFile; fileRef = E2DBDFB8F99C39D9654ECC343D2EEE51 /* UIImage+Handle.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		570FE69F8D9653F9EF6B5AC0D630D71B /* NSMutableDictionary+RXRMultipleItems.h in Headers */ = {isa = PBXBuildFile; fileRef = E17122ACD6D71B904235265FBCFF5D41 /* NSMutableDictionary+RXRMultipleItems.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		5E42E83A8BF7DBEA9C1B133C6D697B80 /* SendinfoCategory-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B449BB285B2F55236884E8D81D45A53 /* SendinfoCategory-dummy.m */; };
+		65153BEE0049F4B68617C55355466797 /* NSString+val.h in Headers */ = {isa = PBXBuildFile; fileRef = FAC1CC0DC1D49E428434E0A2DF7ED711 /* NSString+val.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		69F1665D99B359B723C1688C0D8D4380 /* UIColor+Utilty.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A13F00E83C9EDD9FCE762C65EEB506F /* UIColor+Utilty.m */; };
+		76D3D3306548CDC62A8E0049FBD076A3 /* UIColor+PGHex.h in Headers */ = {isa = PBXBuildFile; fileRef = 639D1FFA08A3BC8B5F004BBF975304B4 /* UIColor+PGHex.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		77F67B715CBCE3D495669CC95D2C26EF /* SendIFAPPDefault.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F3AF0DF61477148B3A0BC95225DF10B /* SendIFAPPDefault.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		9EF083C2E33544918EB8254A0C460826 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		A485DCBD3EF2298F148BE6A29A0B0660 /* NSURL+Rexxar.h in Headers */ = {isa = PBXBuildFile; fileRef = 955A5A924B9ED95861A4C196B541CD39 /* NSURL+Rexxar.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		C2E2EE6ED752E570A57784FBD3327E9C /* NSMutableDictionary+RXRMultipleItems.h in Headers */ = {isa = PBXBuildFile; fileRef = 5DC5E154AE020D844F59B1343EE40DD0 /* NSMutableDictionary+RXRMultipleItems.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		C8135CC638A29C3A59D1AADB249455E5 /* NSURL+Rexxar.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B2EFC36BFC430197546A2164782ADC /* NSURL+Rexxar.m */; };
-		CCC28D8FB82689FB8FB4E047BB6F3617 /* NSDate+Utilities.h in Headers */ = {isa = PBXBuildFile; fileRef = A97563EE39F49172B644699E245F241F /* NSDate+Utilities.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		DDB8991CD6F7E914B33F518BCDBC2C7B /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A22F8186AC2FD350B3F4A1207E19813 /* NSString+MD5.m */; };
-		E090D93F24338EC0E963134614FF9CAB /* UIImage+Handle.h in Headers */ = {isa = PBXBuildFile; fileRef = AFF187DC5E6105858ECF2DCA45C53E90 /* UIImage+Handle.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		E43EC5ECBFB33447A29B9C9081374B01 /* SendIFAPPDefault.m in Sources */ = {isa = PBXBuildFile; fileRef = 74AC6D88968A26521309BD3EC7DF08E3 /* SendIFAPPDefault.m */; };
+		C332489597B29812E0AA643323C43351 /* NSDate+Utilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E32F5CA443275F4904CA229530608AA /* NSDate+Utilities.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C8135CC638A29C3A59D1AADB249455E5 /* NSURL+Rexxar.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6A1529B5E770CDC4A76012815C7046 /* NSURL+Rexxar.m */; };
+		C9E124A34615772E5109D86066EF4FCF /* UIView+Toast.h in Headers */ = {isa = PBXBuildFile; fileRef = 816746A68B7F6F5ACA55BC6C6AC17915 /* UIView+Toast.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		D433F59C737BAF5CDC8644A453D740FA /* NSURL+Rexxar.h in Headers */ = {isa = PBXBuildFile; fileRef = F3E650A0BC8D96D4ACFF5B60547E4BBA /* NSURL+Rexxar.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		DDB8991CD6F7E914B33F518BCDBC2C7B /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F12056B72E16066D1517454AEDF6204 /* NSString+MD5.m */; };
+		E43EC5ECBFB33447A29B9C9081374B01 /* SendIFAPPDefault.m in Sources */ = {isa = PBXBuildFile; fileRef = 61732031B51210F49A1F9B71FA24C012 /* SendIFAPPDefault.m */; };
 		E529776791132CAAA584C7CDE061D064 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		E6F8D27C7D67145B78A7C90ED1323092 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = FC1C61A7E7800D024161AFD690DB2363 /* UIView+Toast.m */; };
-		EA90EF8DFEE7ADDDC038400B3C29A5DA /* NSString+val.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C1A494A1702D6B6FD87D93104CF60AF /* NSString+val.m */; };
-		EB58D8537BBC0AD0544B7F6BBD13B3FF /* SendIFAPPDefault.h in Headers */ = {isa = PBXBuildFile; fileRef = 5E923F09F1C7CE93D3544C9FAF57AFB4 /* SendIFAPPDefault.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		F7955373A9DB94251CBF78A52B993DFE /* NSDate+Utilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 77A07E4204A36CCA94E31FC00169B72E /* NSDate+Utilities.m */; };
+		E6F8D27C7D67145B78A7C90ED1323092 /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = C88F70E2D7D0C0F31BB417929136EA7C /* UIView+Toast.m */; };
+		EA90EF8DFEE7ADDDC038400B3C29A5DA /* NSString+val.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A157CDAB4AEA009246BE15BF7959BFB /* NSString+val.m */; };
+		ED0E444F37F72A3B665B39F3CE858FD8 /* UIFont+Common.h in Headers */ = {isa = PBXBuildFile; fileRef = 27730166F872F15D447016B82E7083DD /* UIFont+Common.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		EE780879F95933E60806F2141ABB859D /* NSDate+Addition.h in Headers */ = {isa = PBXBuildFile; fileRef = 266B82B81E535FBCE55486DFED94DFA5 /* NSDate+Addition.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F7955373A9DB94251CBF78A52B993DFE /* NSDate+Utilities.m in Sources */ = {isa = PBXBuildFile; fileRef = BB2B9CCEE78C87F09D232E5138E459D0 /* NSDate+Utilities.m */; };
 		FA1566D9BCCD3E8AC7763F20C839D745 /* Pods-test-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D45B604668D0E02A7A4B471A371B974B /* Pods-test-dummy.m */; };
+		FA2E31524C2A89612D25D93843382AA6 /* SCategoryHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = DD4827525C37F43DD2653A92178212F9 /* SCategoryHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,48 +52,48 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		06CABABF83850004BF4B3A322ECD306E /* UIImage+Handle.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Handle.m"; path = "SendinfoCategory/UIImage+Handle.m"; sourceTree = "<group>"; };
-		07B2EFC36BFC430197546A2164782ADC /* NSURL+Rexxar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSURL+Rexxar.m"; path = "SendinfoCategory/NSURL+Rexxar.m"; sourceTree = "<group>"; };
-		0971C28261AC0CF746AB7581433B343B /* UIColor+PGHex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+PGHex.m"; path = "SendinfoCategory/UIColor+PGHex.m"; sourceTree = "<group>"; };
 		0B9FD819817BB17778B8CE481771ECFB /* Pods-test-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test-resources.sh"; sourceTree = "<group>"; };
-		0C1A494A1702D6B6FD87D93104CF60AF /* NSString+val.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+val.m"; path = "SendinfoCategory/NSString+val.m"; sourceTree = "<group>"; };
 		165509341C7BF684E88D121851B11155 /* libPods-test.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-test.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		29D876D990DA85B216BECCF8D0E6D3C3 /* SendinfoCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SendinfoCategory-dummy.m"; sourceTree = "<group>"; };
-		2C0AAF650B83726BE6EFA2B6F00C175E /* SendinfoCategory-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SendinfoCategory-prefix.pch"; sourceTree = "<group>"; };
-		2CCCF6337449935CA8AD8FAFDDDFE139 /* UIColor+Utilty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Utilty.h"; path = "SendinfoCategory/UIColor+Utilty.h"; sourceTree = "<group>"; };
-		362136C57DED1B59A22573F8CE6FA0DB /* UIColor+Utilty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Utilty.m"; path = "SendinfoCategory/UIColor+Utilty.m"; sourceTree = "<group>"; };
-		3849D83E2306A63236E438BE5D3DDB6F /* UIFont+Common.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+Common.h"; path = "SendinfoCategory/UIFont+Common.h"; sourceTree = "<group>"; };
-		3B03D0D8AFD4CE8C4C09143A7FC274F5 /* NSString+val.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+val.h"; path = "SendinfoCategory/NSString+val.h"; sourceTree = "<group>"; };
-		41337BF968688EB5D45A8FEBC9DDDFD1 /* UIFont+Common.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIFont+Common.m"; path = "SendinfoCategory/UIFont+Common.m"; sourceTree = "<group>"; };
-		4490D42B74D33B0B1246E830C91A645E /* NSString+MD5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+MD5.h"; path = "SendinfoCategory/NSString+MD5.h"; sourceTree = "<group>"; };
-		4D7E9C12DAFE4D0813F7CA2A839D4C18 /* UIColor+PGHex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+PGHex.h"; path = "SendinfoCategory/UIColor+PGHex.h"; sourceTree = "<group>"; };
-		4F4D10D525C4ABCFFA6D9E8EBD8A0890 /* NSDate+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Addition.m"; path = "SendinfoCategory/NSDate+Addition.m"; sourceTree = "<group>"; };
-		5DC5E154AE020D844F59B1343EE40DD0 /* NSMutableDictionary+RXRMultipleItems.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableDictionary+RXRMultipleItems.h"; path = "SendinfoCategory/NSMutableDictionary+RXRMultipleItems.h"; sourceTree = "<group>"; };
-		5E923F09F1C7CE93D3544C9FAF57AFB4 /* SendIFAPPDefault.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SendIFAPPDefault.h; path = SendinfoCategory/SendIFAPPDefault.h; sourceTree = "<group>"; };
-		627D58DD2089DA3900EAE411 /* SCategoryHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SCategoryHeader.h; sourceTree = "<group>"; };
+		18A7EA07098D533827E9BFF0D4B0E57E /* NSString+RXRURLEscape.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+RXRURLEscape.m"; path = "SendinfoCategory/NSString+RXRURLEscape.m"; sourceTree = "<group>"; };
+		1F3AF0DF61477148B3A0BC95225DF10B /* SendIFAPPDefault.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SendIFAPPDefault.h; path = SendinfoCategory/SendIFAPPDefault.h; sourceTree = "<group>"; };
+		266B82B81E535FBCE55486DFED94DFA5 /* NSDate+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Addition.h"; path = "SendinfoCategory/NSDate+Addition.h"; sourceTree = "<group>"; };
+		27730166F872F15D447016B82E7083DD /* UIFont+Common.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIFont+Common.h"; path = "SendinfoCategory/UIFont+Common.h"; sourceTree = "<group>"; };
+		3117059A4C0AD3E08A30DEDC8CF1AE13 /* NSDate+Addition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Addition.m"; path = "SendinfoCategory/NSDate+Addition.m"; sourceTree = "<group>"; };
+		3A157CDAB4AEA009246BE15BF7959BFB /* NSString+val.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+val.m"; path = "SendinfoCategory/NSString+val.m"; sourceTree = "<group>"; };
+		4BAD6FBA583472165BD873DBD22C87F2 /* NSMutableDictionary+RXRMultipleItems.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+RXRMultipleItems.m"; path = "SendinfoCategory/NSMutableDictionary+RXRMultipleItems.m"; sourceTree = "<group>"; };
+		5F12056B72E16066D1517454AEDF6204 /* NSString+MD5.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+MD5.m"; path = "SendinfoCategory/NSString+MD5.m"; sourceTree = "<group>"; };
+		61732031B51210F49A1F9B71FA24C012 /* SendIFAPPDefault.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SendIFAPPDefault.m; path = SendinfoCategory/SendIFAPPDefault.m; sourceTree = "<group>"; };
+		6345954ACF39A83738FDF63149E05177 /* SendinfoCategory.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SendinfoCategory.xcconfig; sourceTree = "<group>"; };
+		639D1FFA08A3BC8B5F004BBF975304B4 /* UIColor+PGHex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+PGHex.h"; path = "SendinfoCategory/UIColor+PGHex.h"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		696F2CE4180B1CD9FBC6DCE902F30E72 /* UIView+Toast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Toast.h"; path = "SendinfoCategory/UIView+Toast.h"; sourceTree = "<group>"; };
+		6E32F5CA443275F4904CA229530608AA /* NSDate+Utilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Utilities.h"; path = "SendinfoCategory/NSDate+Utilities.h"; sourceTree = "<group>"; };
 		6E712744C6B7C203420AB9B20633AF4F /* Pods-test-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-test-acknowledgements.plist"; sourceTree = "<group>"; };
 		739E7A4C8F43298812A18E61F009F597 /* libSendinfoCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSendinfoCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		74AC6D88968A26521309BD3EC7DF08E3 /* SendIFAPPDefault.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SendIFAPPDefault.m; path = SendinfoCategory/SendIFAPPDefault.m; sourceTree = "<group>"; };
-		77A07E4204A36CCA94E31FC00169B72E /* NSDate+Utilities.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Utilities.m"; path = "SendinfoCategory/NSDate+Utilities.m"; sourceTree = "<group>"; };
-		8755093993600E933D409AC6AB8496E6 /* NSDate+Addition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Addition.h"; path = "SendinfoCategory/NSDate+Addition.h"; sourceTree = "<group>"; };
-		8A22F8186AC2FD350B3F4A1207E19813 /* NSString+MD5.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+MD5.m"; path = "SendinfoCategory/NSString+MD5.m"; sourceTree = "<group>"; };
-		8F608092ABBF02ACA6EBD7675065BA8E /* SendIFAPPSeting.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = SendIFAPPSeting.plist; path = SendinfoCategory/SendIFAPPSeting.plist; sourceTree = "<group>"; };
+		7BDF43F508139865BAD6296E0E93435D /* UIImage+Handle.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Handle.m"; path = "SendinfoCategory/UIImage+Handle.m"; sourceTree = "<group>"; };
+		816746A68B7F6F5ACA55BC6C6AC17915 /* UIView+Toast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Toast.h"; path = "SendinfoCategory/UIView+Toast.h"; sourceTree = "<group>"; };
+		8A13F00E83C9EDD9FCE762C65EEB506F /* UIColor+Utilty.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Utilty.m"; path = "SendinfoCategory/UIColor+Utilty.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		955A5A924B9ED95861A4C196B541CD39 /* NSURL+Rexxar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSURL+Rexxar.h"; path = "SendinfoCategory/NSURL+Rexxar.h"; sourceTree = "<group>"; };
-		968AA2E0857A39164AFD4D74A51D3E76 /* NSMutableDictionary+RXRMultipleItems.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSMutableDictionary+RXRMultipleItems.m"; path = "SendinfoCategory/NSMutableDictionary+RXRMultipleItems.m"; sourceTree = "<group>"; };
-		A425F65D7C3F38AE33923C4FBC4FC940 /* NSString+RXRURLEscape.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+RXRURLEscape.m"; path = "SendinfoCategory/NSString+RXRURLEscape.m"; sourceTree = "<group>"; };
-		A97563EE39F49172B644699E245F241F /* NSDate+Utilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSDate+Utilities.h"; path = "SendinfoCategory/NSDate+Utilities.h"; sourceTree = "<group>"; };
-		AC7D5FFC53A20FB062150F958098819C /* NSString+RXRURLEscape.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+RXRURLEscape.h"; path = "SendinfoCategory/NSString+RXRURLEscape.h"; sourceTree = "<group>"; };
-		AFF187DC5E6105858ECF2DCA45C53E90 /* UIImage+Handle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Handle.h"; path = "SendinfoCategory/UIImage+Handle.h"; sourceTree = "<group>"; };
+		94EADD96B073E5C13A5521DB28E79228 /* SendinfoCategory-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SendinfoCategory-prefix.pch"; sourceTree = "<group>"; };
+		97B663DE45CAB64F554D3D4DB2E724EE /* UIFont+Common.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIFont+Common.m"; path = "SendinfoCategory/UIFont+Common.m"; sourceTree = "<group>"; };
+		9B449BB285B2F55236884E8D81D45A53 /* SendinfoCategory-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SendinfoCategory-dummy.m"; sourceTree = "<group>"; };
+		9F6A1529B5E770CDC4A76012815C7046 /* NSURL+Rexxar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSURL+Rexxar.m"; path = "SendinfoCategory/NSURL+Rexxar.m"; sourceTree = "<group>"; };
+		ABFB7278EC1CC482B19D4FF6D05E620E /* NSString+MD5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+MD5.h"; path = "SendinfoCategory/NSString+MD5.h"; sourceTree = "<group>"; };
+		BB2B9CCEE78C87F09D232E5138E459D0 /* NSDate+Utilities.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Utilities.m"; path = "SendinfoCategory/NSDate+Utilities.m"; sourceTree = "<group>"; };
 		BD64B9B40E979ACAFC5510851F892304 /* Pods-test-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-test-frameworks.sh"; sourceTree = "<group>"; };
+		BFCA0E1771A067D02CA3C1A979684F3B /* UIColor+PGHex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+PGHex.m"; path = "SendinfoCategory/UIColor+PGHex.m"; sourceTree = "<group>"; };
 		C1EEB3782DA34A9FC1FF41E49E089B7C /* Pods-test.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-test.release.xcconfig"; sourceTree = "<group>"; };
-		C86A1E84106BB0D85E57AA1E70335588 /* SendinfoCategory.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SendinfoCategory.xcconfig; sourceTree = "<group>"; };
+		C88F70E2D7D0C0F31BB417929136EA7C /* UIView+Toast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Toast.m"; path = "SendinfoCategory/UIView+Toast.m"; sourceTree = "<group>"; };
 		D45B604668D0E02A7A4B471A371B974B /* Pods-test-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-test-dummy.m"; sourceTree = "<group>"; };
+		DD4827525C37F43DD2653A92178212F9 /* SCategoryHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SCategoryHeader.h; path = SendinfoCategory/SCategoryHeader.h; sourceTree = "<group>"; };
 		DE6634946F44CA27797E07258A458BB6 /* Pods-test.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-test.debug.xcconfig"; sourceTree = "<group>"; };
+		E17122ACD6D71B904235265FBCFF5D41 /* NSMutableDictionary+RXRMultipleItems.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSMutableDictionary+RXRMultipleItems.h"; path = "SendinfoCategory/NSMutableDictionary+RXRMultipleItems.h"; sourceTree = "<group>"; };
+		E2DBDFB8F99C39D9654ECC343D2EEE51 /* UIImage+Handle.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Handle.h"; path = "SendinfoCategory/UIImage+Handle.h"; sourceTree = "<group>"; };
 		E8C0E404DA7A678E73F2280C64884592 /* Pods-test-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-test-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FC1C61A7E7800D024161AFD690DB2363 /* UIView+Toast.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Toast.m"; path = "SendinfoCategory/UIView+Toast.m"; sourceTree = "<group>"; };
+		EEF7E60EED13C790840F5FAC8BA1569A /* UIColor+Utilty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIColor+Utilty.h"; path = "SendinfoCategory/UIColor+Utilty.h"; sourceTree = "<group>"; };
+		F2723CBC3B64050301030D84D82CEDD7 /* NSString+RXRURLEscape.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+RXRURLEscape.h"; path = "SendinfoCategory/NSString+RXRURLEscape.h"; sourceTree = "<group>"; };
+		F3E650A0BC8D96D4ACFF5B60547E4BBA /* NSURL+Rexxar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSURL+Rexxar.h"; path = "SendinfoCategory/NSURL+Rexxar.h"; sourceTree = "<group>"; };
+		FAC1CC0DC1D49E428434E0A2DF7ED711 /* NSString+val.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+val.h"; path = "SendinfoCategory/NSString+val.h"; sourceTree = "<group>"; };
+		FB5C46D1902721644FE6060152CD6259 /* SendIFAPPSeting.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = SendIFAPPSeting.plist; path = SendinfoCategory/SendIFAPPSeting.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +116,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0AC77D51AF52E11D777B27CBA6C7824D /* SendinfoCategory */ = {
+			isa = PBXGroup;
+			children = (
+				DD4827525C37F43DD2653A92178212F9 /* SCategoryHeader.h */,
+				266B82B81E535FBCE55486DFED94DFA5 /* NSDate+Addition.h */,
+				3117059A4C0AD3E08A30DEDC8CF1AE13 /* NSDate+Addition.m */,
+				6E32F5CA443275F4904CA229530608AA /* NSDate+Utilities.h */,
+				BB2B9CCEE78C87F09D232E5138E459D0 /* NSDate+Utilities.m */,
+				E17122ACD6D71B904235265FBCFF5D41 /* NSMutableDictionary+RXRMultipleItems.h */,
+				4BAD6FBA583472165BD873DBD22C87F2 /* NSMutableDictionary+RXRMultipleItems.m */,
+				ABFB7278EC1CC482B19D4FF6D05E620E /* NSString+MD5.h */,
+				5F12056B72E16066D1517454AEDF6204 /* NSString+MD5.m */,
+				F2723CBC3B64050301030D84D82CEDD7 /* NSString+RXRURLEscape.h */,
+				18A7EA07098D533827E9BFF0D4B0E57E /* NSString+RXRURLEscape.m */,
+				FAC1CC0DC1D49E428434E0A2DF7ED711 /* NSString+val.h */,
+				3A157CDAB4AEA009246BE15BF7959BFB /* NSString+val.m */,
+				F3E650A0BC8D96D4ACFF5B60547E4BBA /* NSURL+Rexxar.h */,
+				9F6A1529B5E770CDC4A76012815C7046 /* NSURL+Rexxar.m */,
+				1F3AF0DF61477148B3A0BC95225DF10B /* SendIFAPPDefault.h */,
+				61732031B51210F49A1F9B71FA24C012 /* SendIFAPPDefault.m */,
+				FB5C46D1902721644FE6060152CD6259 /* SendIFAPPSeting.plist */,
+				639D1FFA08A3BC8B5F004BBF975304B4 /* UIColor+PGHex.h */,
+				BFCA0E1771A067D02CA3C1A979684F3B /* UIColor+PGHex.m */,
+				EEF7E60EED13C790840F5FAC8BA1569A /* UIColor+Utilty.h */,
+				8A13F00E83C9EDD9FCE762C65EEB506F /* UIColor+Utilty.m */,
+				27730166F872F15D447016B82E7083DD /* UIFont+Common.h */,
+				97B663DE45CAB64F554D3D4DB2E724EE /* UIFont+Common.m */,
+				E2DBDFB8F99C39D9654ECC343D2EEE51 /* UIImage+Handle.h */,
+				7BDF43F508139865BAD6296E0E93435D /* UIImage+Handle.m */,
+				816746A68B7F6F5ACA55BC6C6AC17915 /* UIView+Toast.h */,
+				C88F70E2D7D0C0F31BB417929136EA7C /* UIView+Toast.m */,
+				D5395E2B45040CCB2253401109EA0BF9 /* Support Files */,
+			);
+			path = SendinfoCategory;
+			sourceTree = "<group>";
+		};
 		3ACD80C0FD674901062B9FD9971F6FB4 /* Pods-test */ = {
 			isa = PBXGroup;
 			children = (
@@ -140,23 +176,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7B8BE0AD17962C1D2A4F07FAA15CD2FE /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				C86A1E84106BB0D85E57AA1E70335588 /* SendinfoCategory.xcconfig */,
-				29D876D990DA85B216BECCF8D0E6D3C3 /* SendinfoCategory-dummy.m */,
-				2C0AAF650B83726BE6EFA2B6F00C175E /* SendinfoCategory-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/SendinfoCategory";
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				D4116D8F06D58CA7A66476CFCD5382BB /* Pods */,
+				A72A6AA5155D0479BB34310542368860 /* Pods */,
 				5130DDBB9E917E0F2A5E1E61B0623EE2 /* Products */,
 				7EAE4325D54CD56710EA21F842C59A53 /* Targets Support Files */,
 			);
@@ -170,48 +195,20 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		A72A6AA5155D0479BB34310542368860 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0AC77D51AF52E11D777B27CBA6C7824D /* SendinfoCategory */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		BF2EA9B14087DCC572CA28850CEE0030 /* SendinfoCategory */ = {
-			isa = PBXGroup;
-			children = (
-				627D58DD2089DA3900EAE411 /* SCategoryHeader.h */,
-				8755093993600E933D409AC6AB8496E6 /* NSDate+Addition.h */,
-				4F4D10D525C4ABCFFA6D9E8EBD8A0890 /* NSDate+Addition.m */,
-				A97563EE39F49172B644699E245F241F /* NSDate+Utilities.h */,
-				77A07E4204A36CCA94E31FC00169B72E /* NSDate+Utilities.m */,
-				5DC5E154AE020D844F59B1343EE40DD0 /* NSMutableDictionary+RXRMultipleItems.h */,
-				968AA2E0857A39164AFD4D74A51D3E76 /* NSMutableDictionary+RXRMultipleItems.m */,
-				4490D42B74D33B0B1246E830C91A645E /* NSString+MD5.h */,
-				8A22F8186AC2FD350B3F4A1207E19813 /* NSString+MD5.m */,
-				AC7D5FFC53A20FB062150F958098819C /* NSString+RXRURLEscape.h */,
-				A425F65D7C3F38AE33923C4FBC4FC940 /* NSString+RXRURLEscape.m */,
-				3B03D0D8AFD4CE8C4C09143A7FC274F5 /* NSString+val.h */,
-				0C1A494A1702D6B6FD87D93104CF60AF /* NSString+val.m */,
-				955A5A924B9ED95861A4C196B541CD39 /* NSURL+Rexxar.h */,
-				07B2EFC36BFC430197546A2164782ADC /* NSURL+Rexxar.m */,
-				5E923F09F1C7CE93D3544C9FAF57AFB4 /* SendIFAPPDefault.h */,
-				74AC6D88968A26521309BD3EC7DF08E3 /* SendIFAPPDefault.m */,
-				8F608092ABBF02ACA6EBD7675065BA8E /* SendIFAPPSeting.plist */,
-				4D7E9C12DAFE4D0813F7CA2A839D4C18 /* UIColor+PGHex.h */,
-				0971C28261AC0CF746AB7581433B343B /* UIColor+PGHex.m */,
-				2CCCF6337449935CA8AD8FAFDDDFE139 /* UIColor+Utilty.h */,
-				362136C57DED1B59A22573F8CE6FA0DB /* UIColor+Utilty.m */,
-				3849D83E2306A63236E438BE5D3DDB6F /* UIFont+Common.h */,
-				41337BF968688EB5D45A8FEBC9DDDFD1 /* UIFont+Common.m */,
-				AFF187DC5E6105858ECF2DCA45C53E90 /* UIImage+Handle.h */,
-				06CABABF83850004BF4B3A322ECD306E /* UIImage+Handle.m */,
-				696F2CE4180B1CD9FBC6DCE902F30E72 /* UIView+Toast.h */,
-				FC1C61A7E7800D024161AFD690DB2363 /* UIView+Toast.m */,
-				7B8BE0AD17962C1D2A4F07FAA15CD2FE /* Support Files */,
-			);
-			path = SendinfoCategory;
 			sourceTree = "<group>";
 		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
@@ -222,35 +219,38 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		D4116D8F06D58CA7A66476CFCD5382BB /* Pods */ = {
+		D5395E2B45040CCB2253401109EA0BF9 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				BF2EA9B14087DCC572CA28850CEE0030 /* SendinfoCategory */,
+				6345954ACF39A83738FDF63149E05177 /* SendinfoCategory.xcconfig */,
+				9B449BB285B2F55236884E8D81D45A53 /* SendinfoCategory-dummy.m */,
+				94EADD96B073E5C13A5521DB28E79228 /* SendinfoCategory-prefix.pch */,
 			);
-			name = Pods;
+			name = "Support Files";
+			path = "../Target Support Files/SendinfoCategory";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		07634716BA547E80E587B27DCE7C16F1 /* Headers */ = {
+		D8093654FF112C02B9C251AF44CA375F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				35ACA04947427D7B0A119F1ADEC992DA /* NSDate+Addition.h in Headers */,
-				CCC28D8FB82689FB8FB4E047BB6F3617 /* NSDate+Utilities.h in Headers */,
-				C2E2EE6ED752E570A57784FBD3327E9C /* NSMutableDictionary+RXRMultipleItems.h in Headers */,
-				2FE63C7D5B64446F48719E1F2B62F1E7 /* NSString+MD5.h in Headers */,
-				39012C078CF8407F91C922E9EC5DE25C /* NSString+RXRURLEscape.h in Headers */,
-				8B8D6522FBF70894BBF3E3F76E8CFC5B /* NSString+val.h in Headers */,
-				A485DCBD3EF2298F148BE6A29A0B0660 /* NSURL+Rexxar.h in Headers */,
-				EB58D8537BBC0AD0544B7F6BBD13B3FF /* SendIFAPPDefault.h in Headers */,
-				009882E0591F11E4A2E3A9B27AE69D1C /* UIColor+PGHex.h in Headers */,
-				714DF8BC69D90ED7DCB04303A1E19CD6 /* UIColor+Utilty.h in Headers */,
-				5E7283799838351D88560F3C98051F7F /* UIFont+Common.h in Headers */,
-				E090D93F24338EC0E963134614FF9CAB /* UIImage+Handle.h in Headers */,
-				704A3F492820832110BC3B4CF75E3079 /* UIView+Toast.h in Headers */,
-				627D58DE2089DA3900EAE411 /* SCategoryHeader.h in Headers */,
+				EE780879F95933E60806F2141ABB859D /* NSDate+Addition.h in Headers */,
+				C332489597B29812E0AA643323C43351 /* NSDate+Utilities.h in Headers */,
+				570FE69F8D9653F9EF6B5AC0D630D71B /* NSMutableDictionary+RXRMultipleItems.h in Headers */,
+				22FE875AFE5553A4EEC2BA21983BBA27 /* NSString+MD5.h in Headers */,
+				1CBE5C834BEF66474E1D4D0F474B44AC /* NSString+RXRURLEscape.h in Headers */,
+				65153BEE0049F4B68617C55355466797 /* NSString+val.h in Headers */,
+				D433F59C737BAF5CDC8644A453D740FA /* NSURL+Rexxar.h in Headers */,
+				FA2E31524C2A89612D25D93843382AA6 /* SCategoryHeader.h in Headers */,
+				77F67B715CBCE3D495669CC95D2C26EF /* SendIFAPPDefault.h in Headers */,
+				76D3D3306548CDC62A8E0049FBD076A3 /* UIColor+PGHex.h in Headers */,
+				4D037C5FDFD5570FA989843A99A499D0 /* UIColor+Utilty.h in Headers */,
+				ED0E444F37F72A3B665B39F3CE858FD8 /* UIFont+Common.h in Headers */,
+				5414AE34E1B42228466A344A55CF8165 /* UIImage+Handle.h in Headers */,
+				C9E124A34615772E5109D86066EF4FCF /* UIView+Toast.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +280,7 @@
 			buildPhases = (
 				E70A55B3223BC8189D025EB29BF2A5DD /* Sources */,
 				9EC564AA7A82A5E33FD4FC5BDF239465 /* Frameworks */,
-				07634716BA547E80E587B27DCE7C16F1 /* Headers */,
+				D8093654FF112C02B9C251AF44CA375F /* Headers */,
 			);
 			buildRules = (
 			);
@@ -404,7 +404,7 @@
 		};
 		84F9C3F6E2A05BCDCF37C3558C3A8580 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C86A1E84106BB0D85E57AA1E70335588 /* SendinfoCategory.xcconfig */;
+			baseConfigurationReference = 6345954ACF39A83738FDF63149E05177 /* SendinfoCategory.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -489,7 +489,7 @@
 		};
 		AF6EF6E9FD2ED237CC58126DBA09EFA7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C86A1E84106BB0D85E57AA1E70335588 /* SendinfoCategory.xcconfig */;
+			baseConfigurationReference = 6345954ACF39A83738FDF63149E05177 /* SendinfoCategory.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
