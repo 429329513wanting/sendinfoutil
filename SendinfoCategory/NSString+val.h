@@ -34,6 +34,15 @@
 + (BOOL)bankCardNumber:(NSString *)cardNo;
 + (BOOL)postCode:(NSString*)code;
 
+//三位加个逗号
++ (NSString *)formatNumber;
+//车号牌校验
++ (BOOL) validateCarNo:(NSString *)carNo;
+//判断是否为空
++ (BOOL)isEmptyString:(NSString*)str;
+//是否汉字
++ (BOOL)isChinese:(NSString*)str;
+
 //拼接字符串
 + (NSString*)catStringTitle:(NSString*)title value:(NSString*)value;
 

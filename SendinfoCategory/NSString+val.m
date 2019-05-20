@@ -256,5 +256,63 @@
     }
     return html;
 }
++ (NSString *)formatNumber:(NSString*)str
+{
+    
+    if ([str containsString:@"."]) {
+        NSArray<NSString *> * arr = [str componentsSeparatedByString:@"."];
+        NSString * first = [self formatNumber:arr.firstObject];
+        return [NSString stringWithFormat:@"%@.%@", first, arr[1]];
+    }
+    
+    int count = 0;
+    long long int a = str.longLongValue;
+    while (a != 0)
+    {
+        count++;
+        a /= 10;
+    }
+    NSMutableString *string = [NSMutableString stringWithString:str];
+    NSMutableString *newstring = [NSMutableString string];
+    while (count > 3) {
+        count -= 3;
+        NSRange rang = NSMakeRange(string.length - 3, 3);
+        NSString *str = [string substringWithRange:rang];
+        [newstring insertString:str atIndex:0];
+        [newstring insertString:@"," atIndex:0];
+        [string deleteCharactersInRange:rang];
+    }
+    [newstring insertString:string atIndex:0];
+    return newstring;
+}
++ (BOOL) validateCarNo:(NSString *)carNo
+{
+    NSString *carRegex = @"^[\u4e00-\u9fa5]{1}[a-zA-Z]{1}[a-zA-Z_0-9]{4}[a-zA-Z_0-9_\u4e00-\u9fa5]$";
+    NSPredicate *carTest = [NSPredicate predicateWithFormat:@"SELF MATCHES %@",carRegex];
+    NSLog(@"carTest is %@",carTest);
+    return [carTest evaluateWithObject:carNo];
+}
 
++ (BOOL)isEmptyString:(NSString*)str{
+    
+    if (self == nil || self == NULL){
+        return YES;
+    }
+    
+    if ([self isKindOfClass:[NSNull class]]) {
+        return YES;
+    }
+    
+    if ([[str stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]] length] == 0) {
+        return YES;
+    }
+    return NO;
+    
+}
++ (BOOL)isChinese:(NSString*)str
+{
+    NSString *match = @"(^[\u4e00-\u9fa5]+$)";
+    NSPredicate *predicate = [NSPredicate predicateWithFormat:@"SELF matches %@", match];
+    return [predicate evaluateWithObject:str];
+}
 @end
