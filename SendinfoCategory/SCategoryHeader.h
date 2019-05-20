@@ -15,7 +15,6 @@
 #import "NSString+RXRURLEscape.h"
 #import "NSString+val.h"
 #import "NSURL+Rexxar.h"
-#import "SendIFAPPDefault.h"
 #import "UIColor+PGHex.h"
 #import "UIColor+Utilty.h"
 #import "UIFont+Common.h"
